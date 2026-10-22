@@ -32,7 +32,7 @@
 
 ## Documentation & Report
 The complete academic evaluation, methodology, architecture diagrams, and command-line execution logs are available in the repository:
-* 📄 [View Final Project Report (PDF)](./reports/DEDSEC_2024_2025%20Final%20Report.pdf)[cite: 6]
+- 📄 [View Final Project Report (PDF)](./DEDSEC_2024_2025%20Final%20Report.pdf)
 
 ---
 
